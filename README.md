@@ -1,1 +1,3 @@
-# Basics-of-Python
+BASICS OF PYTHON
+Tool- Google Colab
+Theory- 
